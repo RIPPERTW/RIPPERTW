@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![GitHub Stats](./profile/stats.svg)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=RIPPERTW&show_icons=true&theme=radical&hide_border=true&locale=ru)
 
 </div>
 
