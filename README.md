@@ -19,9 +19,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RIPPERTW&show_icons=true&theme=radical&hide_border=true&locale=ru)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIPPERTW&layout=compact&theme=radical&hide_border=true&locale=ru)
+https://github-readme-stats.shion.dev/api?username=RIPPERTW&show_icons=true&theme=radical&hide_border=true&locale=ru
 
 </div>
 
