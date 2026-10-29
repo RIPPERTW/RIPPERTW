@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/178366698?v=4" width="150" style="border-radius: 50%;" alt="ripper_cmertanoc avatar"/>
+<img src="https://avatars.githubusercontent.com/u/178366698?v=4" width="150" style="border-radius: 50%;" alt="RIPPER avatar"/>
 
-# Привет, я ripper_cmertanoc 👋
+# RIPPER
 
 **Стример и контент-мейкер** 🎮  
 Стримлю на Twitch, выкладываю видео на YouTube и веду Telegram.
@@ -15,19 +15,13 @@
 
 ---
 
-### 🎥 Где меня смотреть
-
-- 🎥 **Twitch:** [ripper_cmertanoc](https://www.twitch.tv/ripper_cmertanoc) — живые стримы
-- 📣 **Telegram:** [@ripper_cmertanoc](https://t.me/ripper_cmertanoc) — анонсы и общение
-- 📼 **YouTube:** [@ripper_cmertanoc](https://www.youtube.com/@ripper_cmertanoc) — видео и нарезки
-
 ### 📊 Моя статистика на GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ripper_cmertanoc&show_icons=true&theme=radical&hide_border=true&locale=ru)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RIPPERTW&show_icons=true&theme=radical&hide_border=true&locale=ru)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ripper_cmertanoc&layout=compact&theme=radical&hide_border=true&locale=ru)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIPPERTW&layout=compact&theme=radical&hide_border=true&locale=ru)
 
 </div>
 
@@ -35,6 +29,6 @@
 
 <div align="center">
 
-**Спасибо, что заглянул! Заходи на стрим — там веселее 😄**
+**Спасибо, что заглянул! Заходи на стрим**
 
 </div>
